@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+   width: 100%; 
+   height: auto;
+   /* width eni height buyi */
+}
+nav{
+    width: 100%;
+    display: flex; 
+}
+#picture_class{
+    margin-right: 1rem;
+}
+/* top tepa */
+/* bottom past */
+/* right un */
+/* left chap */
+.price{
+    display: flex;
+    margin-top: 1rem;
+}
+.price p{
+    margin-right: 1rem;
+}
+#search{
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.language{
+    display: flex;
+    margin-top: 0.5rem;
+    background: #DCE6FF;
+    border: 1px solid #DCE6FF;
+    border-radius: 20px;
+    text-align: center;
+   margin-right: 1rem; 
+}
+.language p{
+    margin-top: 0.5rem;
+}
+.nav_btn{
+    margin-top: 1rem;
+}
